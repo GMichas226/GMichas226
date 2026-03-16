@@ -1,16 +1,30 @@
-## Hi there 👋
+# Georgios Mixalopoulos
 
-<!--
-**GMichas226/GMichas226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ECE student at the University of Patras. I build things out of curiosity, 
+necessity, and occasionally spite. CLI tools, automation scripts, API integrations, 
+browser extensions, machine learning experiments and more.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What You'll Find Here
+- **CLI Tools** — utilities built for speed and precision
+- **Automation** — eliminating repetition, one script at a time
+- **API Integrations** — connecting services, bridging gaps
+- **Browser Extensions** — reshaping how the web works for me
+- **Machine Learning** — sentiment analysis, data exploration, pattern recognition
+- **Wildcards** - Whatever caught my attention this week
+
+---
+
+## Stack
+
+**Current**
+- Python · C · NumPy · Pandas
+
+**Learning**
+- C++ · PyTorch · FastAPI · JavaScript · Bash / Shell · Docker
+
+---
+
+## 📫 Reach Me
+- ✉️ gewrgiosmixalopoulos@gmail.com
