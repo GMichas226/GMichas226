@@ -3,7 +3,7 @@
 **Electrical \& Computer Engineering** · University of Patras
 From firmware to desktop applications — embedded systems, scientific computing, and signal processing.
 
-\---
+
 
 ## What I Work On
 
@@ -12,7 +12,7 @@ From firmware to desktop applications — embedded systems, scientific computing
 * **Scientific Computing \& Data Analysis** — numerical computing, visualization, and statistical analysis in Python
 * **Audio \& Signal Processing** — audio analysis, feature extraction, and DSP
 
-\---
+
 
 ## Stack
 
@@ -21,8 +21,6 @@ From firmware to desktop applications — embedded systems, scientific computing
 
 **Currently learning**
 `Qt / PyQt` · `SciPy` · `Matplotlib` · `librosa` · `Docker` · `Bash / Shell` · `JavaScript`
-
-\---
 
 ## Reach Me
 
