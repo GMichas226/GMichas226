@@ -24,13 +24,6 @@ From firmware to desktop applications — embedded systems, scientific computing
 
 \---
 
-## GitHub Activity
-
-!\[GitHub Stats](https://github-readme-stats.vercel.app/api?username=GMichas226\&show\_icons=true\&hide\_border=true)
-!\[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GMichas226\&layout=compact\&hide\_border=true)
-
-\---
-
 ## Reach Me
 
 * ✉️ **Email** — gewrgiosmixalopoulos@gmail.com
