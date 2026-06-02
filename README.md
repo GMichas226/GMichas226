@@ -1,30 +1,36 @@
-# Georgios Mixalopoulos
+# Georgios Michalopoulos
 
-ECE student at the University of Patras. I build things out of curiosity, 
-necessity, and occasionally spite. CLI tools, automation scripts, API integrations, 
-browser extensions, machine learning experiments and more.
+**Electrical \& Computer Engineering** · University of Patras
+From firmware to desktop applications — embedded systems, scientific computing, and signal processing.
 
----
+\---
 
-## What You'll Find Here
-- **CLI Tools** — utilities built for speed and precision
-- **Automation** — eliminating repetition, one script at a time
-- **API Integrations** — connecting services, bridging gaps
-- **Browser Extensions** — reshaping how the web works for me
-- **Machine Learning** — sentiment analysis, data exploration, pattern recognition
-- **Wildcards** - Whatever caught my attention this week
+## What I Work On
 
----
+* **Embedded Systems \& Firmware** — low-level C/C++, microcontrollers, and hardware interfacing
+* **Desktop Applications** — cross-platform GUIs built with Qt / PyQt
+* **Scientific Computing \& Data Analysis** — numerical computing, visualization, and statistical analysis in Python
+* **Audio \& Signal Processing** — audio analysis, feature extraction, and DSP
+
+\---
 
 ## Stack
 
-**Current**
-- Python · C · NumPy · Pandas
+**Working with**
+`Python` · `C` · `C++` · `NumPy` · `Pandas`
 
-**Learning**
-- C++ · PyTorch · FastAPI · JavaScript · Bash / Shell · Docker
+**Currently learning**
+`Qt / PyQt` · `SciPy` · `Matplotlib` · `librosa` · `Docker` · `Bash / Shell` · `JavaScript`
 
----
+\---
 
-## 📫 Reach Me
-- ✉️ gewrgiosmixalopoulos@gmail.com
+## GitHub Activity
+
+!\[GitHub Stats](https://github-readme-stats.vercel.app/api?username=GMichas226\&show\_icons=true\&hide\_border=true)
+!\[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GMichas226\&layout=compact\&hide\_border=true)
+
+\---
+
+## Reach Me
+
+* ✉️ **Email** — gewrgiosmixalopoulos@gmail.com
