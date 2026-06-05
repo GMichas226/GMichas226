@@ -20,7 +20,7 @@ From firmware to desktop applications — embedded systems, scientific computing
 `Python` · `C` · `C++` · `NumPy` · `Pandas`· `SciPy` · `Matplotlib`
 
 **Currently learning**
-`Qt / PyQt` · `librosa` · `Docker` · `Bash / Shell` · `JavaScript`
+`Qt / PyQt` · `librosa` · `Docker` · `Bash / Shell` · `JavaScript` · `SQLite/SQL`
 
 ## Reach Me
 
