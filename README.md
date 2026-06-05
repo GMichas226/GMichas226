@@ -17,10 +17,10 @@ From firmware to desktop applications — embedded systems, scientific computing
 ## Stack
 
 **Working with**
-`Python` · `C` · `C++` · `NumPy` · `Pandas`
+`Python` · `C` · `C++` · `NumPy` · `Pandas`· `SciPy` · `Matplotlib`
 
 **Currently learning**
-`Qt / PyQt` · `SciPy` · `Matplotlib` · `librosa` · `Docker` · `Bash / Shell` · `JavaScript`
+`Qt / PyQt` · `librosa` · `Docker` · `Bash / Shell` · `JavaScript`
 
 ## Reach Me
 
